@@ -1,3 +1,5 @@
 body {
-  background-image: url("https://raw.githubusercontent.com/RyeRye02/RyeRye02.github.io/master/mount-fuji-night-reflections-do.jpg");
+  background-image: url("https://raw.githubusercontent.com/RyeRye02/RyeRye02.github.io/master/mount-fuji-night-reflections-do.jpg")
+  background-repeat: no-repeat;
+  background-size: auto;;
       }
