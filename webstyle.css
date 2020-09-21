@@ -1,7 +1,8 @@
 body {
   background: url(mount-fuji-night-reflections-do.jpg);
   background-repeat: no-repeat;
-  background-size: 100% auto;
+  max-width: 100%;
+  height: auto;
 }
 
 
